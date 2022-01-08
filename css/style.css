@@ -1,0 +1,55 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.back-color{
+    background-color: rgb(255, 251, 240);
+}
+.navbar img{
+    width: 300px;
+}
+.navbar ul li {
+    font-size: 17px;
+    padding: 10px 20px;
+}
+.women-jacket-card{
+    border: 0;
+    border-radius: 1em;
+}
+.women-jacket-card img{
+   background-color: rgb(241, 241, 241);
+   height: 330px;
+   border-radius: 1em;
+}
+.slider-card h1{
+    font-size: 2.8rem;
+    color: rgb(250, 190, 76);
+    font-weight: bolder;
+
+}
+.slider-card p{
+    padding-right: 2.3rem;
+    font-size: 17px;
+}
+.slider-card span, h3, h4{
+    color: rgb(54, 57, 88);
+}
+
+h3{
+    font-size: 2.5rem;
+    font-weight: 500; 
+}
+h5{
+    font-size: 2rem;
+    color: rgb(250, 190, 76);
+
+}
+.side-text img{
+    width: 80px;
+
+}
+.side-text p{
+    font-size: 15px;
+}
+.side-texts {
+    border-radius: 1rem;
+}
